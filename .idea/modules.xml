@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asteroid/Asteroid.iml" filepath="$PROJECT_DIR$/Asteroid/Asteroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bullet/Bullet.iml" filepath="$PROJECT_DIR$/Bullet/Bullet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollisionDetection/CollisionDetection.iml" filepath="$PROJECT_DIR$/CollisionDetection/CollisionDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enemy/Enemy.iml" filepath="$PROJECT_DIR$/Enemy/Enemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asteroids.serviceloader.iml" filepath="$PROJECT_DIR$/asteroids.serviceloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/common.iml" filepath="$PROJECT_DIR$/Common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Player/player.iml" filepath="$PROJECT_DIR$/Player/player.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Asteroid" />
+        <module name="Bullet" />
+        <module name="CollisionDetection" />
+        <module name="common" />
+        <module name="Core" />
+        <module name="Enemy" />
+        <module name="player" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Asteroid" target="1.8" />
+      <module name="asteroids.serviceloader" target="1.8" />
+      <module name="Bullet" target="1.8" />
+      <module name="CollisionDetection" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="Core" target="1.8" />
+      <module name="Enemy" target="1.8" />
+      <module name="player" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
